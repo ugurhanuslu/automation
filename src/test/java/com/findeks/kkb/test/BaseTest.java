@@ -5,10 +5,6 @@ import org.testng.annotations.*;
 
 import java.net.MalformedURLException;
 
-/**
- * Created by Ipek Cinar
- * Date: 17.07.2023
- */
 
 public class BaseTest extends DriverFactory {
 

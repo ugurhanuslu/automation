@@ -8,10 +8,6 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
-/**
- * Created by Ipek Cinar
- * Date: 17.07.2023
- */
 
 public class Listener extends BasePage implements ITestListener, ISuiteListener {
 

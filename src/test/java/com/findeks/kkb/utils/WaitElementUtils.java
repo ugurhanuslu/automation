@@ -4,11 +4,6 @@ import com.findeks.kkb.manager.DriverFactory;
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
-/**
- * Created by Ipek Cinar
- * Date: 17.07.2023
- */
-
 public class WaitElementUtils extends DriverFactory {
 
     private WaitElementUtils() {

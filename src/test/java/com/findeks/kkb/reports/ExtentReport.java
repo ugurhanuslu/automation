@@ -6,10 +6,6 @@ import com.aventstack.extentreports.reporter.configuration.Theme;
 
 import java.util.Objects;
 
-/**
- * Created by Ipek Cinar
- * Date: 17.07.2023
- */
 
 public class ExtentReport {
 

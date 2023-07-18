@@ -2,10 +2,6 @@ package com.findeks.kkb.element;
 
 import org.openqa.selenium.By;
 
-/**
- * Created by Ipek Cinar
- * Date: 17.07.2023
- */
 
 public class HomePageElements {
 

@@ -6,10 +6,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Properties;
 
-/**
- * Created by Ipek Cinar
- * Date: 17.07.2023
- */
 
 public class ConfigFileReader {
 

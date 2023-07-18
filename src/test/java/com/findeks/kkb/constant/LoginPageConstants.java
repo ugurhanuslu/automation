@@ -1,9 +1,6 @@
 package com.findeks.kkb.constant;
 
-/**
- * Created by Ipek Cinar
- * Date: 17.07.2023
- */
+
 
 public class LoginPageConstants {
 

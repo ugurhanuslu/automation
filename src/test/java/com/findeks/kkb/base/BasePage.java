@@ -16,10 +16,6 @@ import java.util.List;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
-/**
- * Created by Ipek Cinar
- * Date: 16.07.2023
- */
 
 public abstract class BasePage extends BaseTest {
 

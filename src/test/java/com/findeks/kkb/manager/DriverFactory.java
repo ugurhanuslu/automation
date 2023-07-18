@@ -14,10 +14,6 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.Duration;
 
-/**
- * Created by Ipek Cinar
- * Date: 17.07.2023
- */
 
 public class DriverFactory {
 

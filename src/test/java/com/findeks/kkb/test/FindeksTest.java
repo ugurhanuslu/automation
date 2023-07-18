@@ -5,10 +5,6 @@ import com.findeks.kkb.element.*;
 import com.findeks.kkb.base.StepImplementations;
 import org.testng.annotations.Test;
 
-/**
- * Created by Ipek Cinar 17.07.2023
- * Date: 26.06.2023
- */
 
 public class FindeksTest extends StepImplementations {
 

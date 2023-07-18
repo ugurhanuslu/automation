@@ -3,10 +3,6 @@ package com.findeks.kkb.reports;
 import static com.aventstack.extentreports.MediaEntityBuilder.createScreenCaptureFromBase64String;
 import static com.findeks.kkb.utils.ScreenshotUtils.getBase64Image;
 
-/**
- * Created by Ipek Cinar
- * Date: 17.07.2023
- */
 
 public class ExtentLogger {
 

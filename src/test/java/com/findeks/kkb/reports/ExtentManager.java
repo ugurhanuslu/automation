@@ -2,10 +2,7 @@ package com.findeks.kkb.reports;
 
 import com.aventstack.extentreports.ExtentTest;
 
-/**
- * Created by Ipek Cinar
- * Date: 17.07.2023
- */
+
 
 public class ExtentManager {
 
